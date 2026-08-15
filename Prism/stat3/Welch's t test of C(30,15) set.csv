@@ -1,0 +1,30 @@
+﻿,
+Table Analyzed,stats_dimension
+,
+Group B,D=5 C(30,15)
+vs.,vs.
+Group A,Best D=7 C(30,15)
+,
+Unpaired t test with Welch's correction,
+    P value,<0.0001
+    P value summary,****
+    Significantly different (P < 0.05)?,Yes
+    One- or two-tailed P value?,Two-tailed
+    Welch-corrected  t, df,t=9.971, df=29.12
+,
+How large is the effect?,
+    Mean of group A,0.005354
+    Mean of group B,0.02401
+    Difference between means (B - A) ± SEM,0.01865 ± 0.001871
+    95% confidence interval,0.01483 to 0.02248
+    R squared (eta squared),0.7734
+,
+F test to compare variances,
+    F, DFn, Dfd,468.2, 29, 29
+    P value,<0.0001
+    P value summary,****
+    Significantly different (P < 0.05)?,Yes
+,
+Data analyzed,
+    Sample size, group A,30
+    Sample size, group B,30

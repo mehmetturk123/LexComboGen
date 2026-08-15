@@ -1,0 +1,30 @@
+﻿,
+Table Analyzed,stats_dimension
+,
+Group L,D=5 C(40,20)
+vs.,vs.
+Group K,Best D=9 C(40,20)
+,
+Unpaired t test with Welch's correction,
+    P value,<0.0001
+    P value summary,****
+    Significantly different (P < 0.05)?,Yes
+    One- or two-tailed P value?,Two-tailed
+    Welch-corrected  t, df,t=1639, df=42.15
+,
+How large is the effect?,
+    Mean of group K,3.231
+    Mean of group L,20.59
+    Difference between means (L - K) ± SEM,17.36 ± 0.01059
+    95% confidence interval,17.34 to 17.38
+    R squared (eta squared),1.000
+,
+F test to compare variances,
+    F, DFn, Dfd,4.171, 29, 29
+    P value,0.0002
+    P value summary,***
+    Significantly different (P < 0.05)?,Yes
+,
+Data analyzed,
+    Sample size, group K,30
+    Sample size, group L,30

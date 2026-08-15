@@ -1,0 +1,26 @@
+﻿	
+Table Analyzed	Transform of Data 1
+	
+Group A	Serial
+vs.	vs.
+Group B	Section 4
+	
+Wilcoxon matched-pairs signed rank test	
+    P value	0.7002
+    Exact or approximate P value?	Exact
+    P value summary	ns
+    Significantly different (P < 0.05)?	No
+    One- or two-tailed P value?	Two-tailed
+    Sum of positive, negative ranks	38.00 , -28.00
+    Sum of signed ranks (W)	10.00
+    Number of pairs	11
+    Number of ties (Pratt's method)	0
+	
+Median of differences	
+    Median	0.01482
+	
+How effective was the pairing?	
+    rs (Spearman)	1.000
+    P value (one tailed)	<0.0001
+    P value summary	****
+    Was the pairing significantly effective?	Yes

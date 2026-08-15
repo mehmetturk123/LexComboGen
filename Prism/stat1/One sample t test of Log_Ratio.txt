@@ -1,0 +1,17 @@
+﻿	A - B	B - B
+Theoretical mean	0.000	0.000
+Actual mean	0.01489	0.000
+Number of values	11	11
+		
+One sample t test		Sample difference has zero SD
+  t, df	t=0.4204, df=10	
+  P value (two tailed)	0.6831	
+  P value summary	ns	
+  Significant (alpha=0.05)?	No	
+		
+How large is the effect?		
+  Discrepancy	0.01489	
+  SD of discrepancy	0.1175	
+  SEM of discrepancy	0.03542	
+  95% confidence interval	-0.06403 to 0.09380	
+  R squared (partial eta squared)	0.01736	

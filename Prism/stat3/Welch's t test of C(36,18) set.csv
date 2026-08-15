@@ -1,0 +1,30 @@
+﻿,
+Table Analyzed,stats_dimension
+,
+Group H,D=5 C(36,18)
+vs.,vs.
+Group G,Best D=8 C(36,18)
+,
+Unpaired t test with Welch's correction,
+    P value,<0.0001
+    P value summary,****
+    Significantly different (P < 0.05)?,Yes
+    One- or two-tailed P value?,Two-tailed
+    Welch-corrected  t, df,t=2663, df=38.91
+,
+How large is the effect?,
+    Mean of group G,0.2585
+    Mean of group H,1.149
+    Difference between means (H - G) ± SEM,0.8907 ± 0.0003344
+    95% confidence interval,0.8900 to 0.8914
+    R squared (eta squared),1.000
+,
+F test to compare variances,
+    F, DFn, Dfd,5.675, 29, 29
+    P value,<0.0001
+    P value summary,****
+    Significantly different (P < 0.05)?,Yes
+,
+Data analyzed,
+    Sample size, group G,30
+    Sample size, group H,30

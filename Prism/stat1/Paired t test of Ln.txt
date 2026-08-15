@@ -1,0 +1,27 @@
+﻿	
+Table Analyzed	Ln
+	
+Group B	Section 4(ln)
+vs.	vs.
+Group A	Serial(ln)
+	
+Paired t test	
+    P value	0.6831
+    P value summary	ns
+    Significantly different (P < 0.05)?	No
+    One- or two-tailed P value?	Two-tailed
+    t, df	t=0.4204, df=10
+    Number of pairs	11
+	
+How large is the effect?	
+    Mean of differences (B - A)	-0.01489
+    SD of differences	0.1175
+    SEM of differences	0.03542
+    95% confidence interval	-0.09380 to 0.06403
+    R squared (partial eta squared)	0.01736
+	
+How effective was the pairing?	
+    Correlation coefficient (r)	0.9991
+    P value (one tailed)	<0.0001
+    P value summary	****
+    Was the pairing significantly effective?	Yes

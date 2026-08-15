@@ -1,0 +1,30 @@
+﻿	
+Table Analyzed	stats_dimension
+	
+Group J	D=5 C(38,19)
+vs.	vs.
+Group I	Best D=7 C(38,19)
+	
+Unpaired t test with Welch's correction	
+    P value	<0.0001
+    P value summary	****
+    Significantly different (P < 0.05)?	Yes
+    One- or two-tailed P value?	Two-tailed
+    Welch-corrected  t, df	t=2129, df=33.77
+	
+How large is the effect?	
+    Mean of group I	0.8538
+    Mean of group J	4.912
+    Difference between means (J - I) ± SEM	4.058 ± 0.001906
+    95% confidence interval	4.054 to 4.062
+    R squared (eta squared)	1.000
+	
+F test to compare variances	
+    F, DFn, Dfd	12.07, 29, 29
+    P value	<0.0001
+    P value summary	****
+    Significantly different (P < 0.05)?	Yes
+	
+Data analyzed	
+    Sample size, group I	30
+    Sample size, group J	30
