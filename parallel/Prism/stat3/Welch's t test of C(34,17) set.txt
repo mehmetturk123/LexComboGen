@@ -1,0 +1,30 @@
+﻿	
+Table Analyzed	stats_dimension
+	
+Group F	D=5 C(34,17)
+vs.	vs.
+Group E	Best D=7 C(34,17)
+	
+Unpaired t test with Welch's correction	
+    P value	<0.0001
+    P value summary	****
+    Significantly different (P < 0.05)?	Yes
+    One- or two-tailed P value?	Two-tailed
+    Welch-corrected  t, df	t=1456, df=31.29
+	
+How large is the effect?	
+    Mean of group E	0.06385
+    Mean of group F	0.2848
+    Difference between means (F - E) ± SEM	0.2210 ± 0.0001517
+    95% confidence interval	0.2206 to 0.2213
+    R squared (eta squared)	1.000
+	
+F test to compare variances	
+    F, DFn, Dfd	25.31, 29, 29
+    P value	<0.0001
+    P value summary	****
+    Significantly different (P < 0.05)?	Yes
+	
+Data analyzed	
+    Sample size, group E	30
+    Sample size, group F	30

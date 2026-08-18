@@ -1,0 +1,13 @@
+﻿	TRUBA / Section 4
+Number of values	11
+	
+Minimum	0.8165
+Maximum	1.200
+Range	0.3832
+	
+Mean	1.021
+Std. Deviation	0.1185
+Std. Error of Mean	0.03574
+	
+Geometric mean	1.015
+Geometric SD factor	1.125
